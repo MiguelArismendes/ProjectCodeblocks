@@ -33,3 +33,5 @@ int main(){
     }
 
 }
+
+// isso foi adicionado pelo windows
